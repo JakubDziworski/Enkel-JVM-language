@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/CIResearchGroup/Enkel-JVM-language.svg?branch=master)](https://travis-ci.org/CIResearchGroup/Enkel-JVM-language)
 #Enkel
 Enkel is a simple programming language running on jvm
 
